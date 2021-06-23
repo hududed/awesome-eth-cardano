@@ -6,7 +6,7 @@ curation of resources for interoperability between ETH and cardano
 High-level differences https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on-cardano-core-principles-and-points-of-difference/
 
 ### Cardano ledger:  
-table comparison ADA vs ERC20 https://cardano-ledger.readthedocs.io/en/latest/explanations/features.html#
+table comparison ADA vs ERC20 https://cardano-ledger.readthedocs.io/en/latest/explanations/features.html#  
 FAQ Multi-asset: https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html
 
 ## ERC20 Converter

@@ -9,7 +9,6 @@ High-level differences https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on
 table comparison ADA vs ERC20 https://cardano-ledger.readthedocs.io/en/latest/explanations/features.html#
 FAQ Multi-asset: https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html
 
-
 ## ERC20 Converter
 ### IOHK Dev community:  
 JUNE 8 DEVCOMMUNITY CALL: Francisco presents the ERC-20 Converter: https://drive.google.com/file/d/1dBuLPds_zgZbKxDftHRVjMpkAs9C1x1D/view

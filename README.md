@@ -1,12 +1,18 @@
 # awesome-eth-cardano
 curation of resources for interoperability between ETH and cardano, sorted in descending dates
 
+## Differences between Ethereum and plutus smart contracts
+### IOHK Blogs:  
+https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on-cardano-core-principles-and-points-of-difference/
+
+
 ## ERC20 Converter
 ### IOHK Dev community:  
 NOTES FROM JUNE 8 DEVCOMMUNITY CALL: Francisco presents the ERC-20 Converter: https://drive.google.com/file/d/1dBuLPds_zgZbKxDftHRVjMpkAs9C1x1D/view
 
-### Blogs:  
+### IOHK Blogs:  
 https://iohk.io/en/blog/posts/2021/05/17/bringing-erc20-to-cardano/
+https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on-cardano-core-principles-and-points-of-difference/
 
 ### News:  
 https://finance.yahoo.com/news/cardano-erc20-converter-coming-soon-173000881.html   
